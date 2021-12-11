@@ -1,5 +1,3 @@
-# Avidity
-
 #### You can use the following function to get mp3.
 reference : https://dev.to/stokry/download-youtube-video-to-mp3-with-python-26p
 
